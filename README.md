@@ -1,23 +1,10 @@
 ﻿4pdaClient
 ==========
-Неофициальный android-клиент для сайта 4pda.ru
+Форк неофициального android-клиента для "СЛОМАЙ МЕНЯ ПОЛНОСТЬЮ".
 
 Обсуждение программы по адресу:
 http://4pda.ru/forum/index.php?showtopic=271502
 
-Замечания, предложения, помощь приветствуются
-
-
-Используемые библиотеки:
-------
-    android-pinch           http://code.google.com/p/android-pinch/
-    apache
-    Android-PullToRefresh   https://github.com/chrisbanes/Android-PullToRefresh
-    ActionBar-PullToRefresh	https://github.com/chrisbanes/ActionBar-PullToRefresh
-    Android SQLiteAssetHelper	https://github.com/jgilfelt/android-sqlite-asset-helper
-    NewQuickAction3D	https://github.com/lorensiuswlt/NewQuickAction3D
-    jsoup	http://jsoup.org/
-    Universal Image Loader for Android  https://github.com/nostra13/Android-Universal-Image-Loader
 License
 -------
 
